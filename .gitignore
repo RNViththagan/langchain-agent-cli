@@ -21,6 +21,8 @@ dist/
 
 # Logs
 *.log
+chat_logs/
+agent_output.json
 
 # IDE/editor files (optional)
 .vscode/
