@@ -27,3 +27,6 @@ agent_output.json
 # IDE/editor files (optional)
 .vscode/
 .idea/
+
+# Miscellaneous
+workspace/
